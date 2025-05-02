@@ -1,0 +1,6 @@
+The changes should resolve the issues you were seeing:
+- No more "bad allocation" errors
+- Face groups should now be displayed correctly
+- Face images should be saved and served properly
+
+Let me know if you still encounter any issues after trying these steps.
